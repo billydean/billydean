@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ### What I'm Learning
 <table>
 <tr>
-    <td><img src='../images/js-logo.svg' width='100' height='100'></td>
-    <td><img src='../images/react-logo.svg' width='100' height='100'></td>
+    <td><img src='images\js-logo.svg' width='100' height='100'></td>
+    <td><img src='images\react-logo.svg' width='100' height='100'></td>
 </tr>
 <tr>
     <td>JavaScript</td>
@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 </table>
 
 ### Currently Working On
-- [] Tightening up my JS syntax through CodeSignal
-- [] Meeting stretch goals set out for me in BloomTech's coursework
-- [] A smarter, more modular, more "realistic" random character generator
+ - [] Tightening up my JS syntax through CodeSignal
+ - [] Meeting stretch goals set out for me in BloomTech's coursework
+ - [] A smarter, more modular, more "realistic" random character generator
+
 ### I've worn many hats: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;philosopher,[^1] translator,[^2] writer, game designer,[^3] and full stack web developer.
 [^1]: Link to my dissertation on the concept of design, *Repurpose in Deleuze and Design*.
