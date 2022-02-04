@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **billydean/billydean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## &nbsp;&nbsp;&nbsp;Hey,
-# I'm Billy Dean
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he/him)
-What I'm Learning
-Currently Working On
-I've worn many hats: philosopher, translator, writer, game designer, and full stack web developer.
-Ask me about...
-Reach me at...
-Looking to Collaborate...
+# Hey,<br>&nbsp;&nbsp;&nbsp;I'm Billy Dean <sub>(he/him)</sub>
+
+### What I'm Learning
+### Currently Working On
+### I've worn many hats: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;philosopher,[^1] translator,[^2] writer, game designer,[^3] and full stack web developer.
+[^1]: Link to my dissertation on the concept of design, *Repurpose in Deleuze and Design*.
+[^2]: See my contributes to [The Deleuze Seminars](https://deleuze.cla.purdue.edu/index.php/), a large-scale project out of Purdue University, funded by the National Endowment for the Humanities.
+[^3]: Link to Faunwood's instagram.
+
+### Ask me about...
+### Reach me at...
+### Looking to Collaborate...
+
