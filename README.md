@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 # Hey,<br>&nbsp;&nbsp;&nbsp;I'm Billy Dean <sub>(he/him)</sub>
 
-### What I'm Learning
-<table>
+<h3 style="text-align: center">What I'm Learning</h3>
+<table style="margin: auto">
 <tr>
     <td><img src='images\js-logo.svg' width='100' height='100'></td>
     <td><img src='images\react-logo.svg' width='100' height='100'></td>
