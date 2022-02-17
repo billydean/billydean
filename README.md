@@ -41,6 +41,21 @@ Here are some ideas to get you started:
 [^3]: Writing, Testing, and Co-Designing an upcoming card game with spooky slug person, [Miranda Zimmerman](https://www.faunwood.com/).
 
 ### Ask me about...
+
+
 ### Reach me at...
+
+<table>
+    <tr>
+        <td><img src='images\facebook.png' width='50' height='50'></td>
+        <td><img src='images\twitter.png' width='50' height='50'></td>
+        <td><img src='images\discord.png' width='50' height='50'></td>
+        <td><img src='images\linkedin.png' width='50' height='50'></td>
+    </tr>
+    <tr>
+        <td align='center'>Or just drop me a line at billy.goehring@gmail.com</td>
+    </tr>
+</table>
+
 ### Looking to Collaborate...
 
