@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 <h3 align='center'>Reach me at...</h3>
 
 
-<table>
+<table align='center'>
     <tr>
-        <td><img src='images\facebook.png' width='50' height='50'></td>
-        <td><img src='images\twitter.png' width='50' height='50'></td>
-        <td><img src='images\discord.png' width='50' height='50'></td>
-        <td><img src='images\linkedin.png' width='50' height='50'></td>
+        <td align='center'><img src='images\facebook.png' width='50' height='50'></td>
+        <td align='center'><img src='images\twitter.png' width='50' height='50'></td>
+        <td align='center'><img src='images\discord.png' width='50' height='50'></td>
+        <td align='center'><img src='images\linkedin.png' width='50' height='50'></td>
     </tr>
     <tr>
         <td align='center' colspan='4'>Or just drop me a line at billy.goehring@gmail.com</td>
