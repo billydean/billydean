@@ -53,7 +53,7 @@ Here are some ideas to get you started:
         <td><img src='images\linkedin.png' width='50' height='50'></td>
     </tr>
     <tr>
-        <td align='center'>Or just drop me a line at billy.goehring@gmail.com</td>
+        <td align='center' colspan='4'>Or just drop me a line at billy.goehring@gmail.com</td>
     </tr>
 </table>
 
