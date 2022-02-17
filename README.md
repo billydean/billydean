@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 </table>
 
 ### Currently Working On
- - [] Tightening up my JS syntax through CodeSignal
- - [] Meeting stretch goals set out for me in BloomTech's coursework
- - [] A smarter, more modular, more "realistic" random character generator
+- [] Tightening up my JS syntax through CodeSignal
+- [] Meeting stretch goals set out for me in BloomTech's coursework
+- [] A smarter, more modular, more "realistic" random character generator
 
 ### I've worn many hats: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;philosopher,[^1] translator,[^2] writer, game designer,[^3] and full stack web developer.
