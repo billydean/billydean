@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 ### Ask me about...
 
 
-### Reach me at...
+<h3 align='center'>Reach me at...</h3>
+
 
 <table>
     <tr>
@@ -57,5 +58,6 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-### Looking to Collaborate...
+
+<h3 align='center'>Looking to Collaborate...</h3>
 
