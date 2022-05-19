@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hey,<br>&nbsp;&nbsp;&nbsp;I'm Billy Dean <sub>(he/him)</sub>
 
-<h3 align='center'>What I'm Learning</h3>
+<!--<h3 align='center'>Toolbelt</h3>
 <table align='center'>
 <tr>
     <td align='center'><img src='images\js-logo.svg' width='75' height='75'></td>
@@ -24,15 +24,13 @@ Here are some ideas to get you started:
 </tr>
 <tr>
     <td>JavaScript</td>
-    <td>React</td>
+    <td>React.js</td>
 </tr>
-</table>
-
-
+</table>-->
 ### Currently Working On
-- [ ] Tightening up my JS syntax through CodeSignal
-- [ ] Meeting stretch goals set out for me in BloomTech's coursework
-- [ ] A smarter, more modular, more "realistic" random character generator
+- [ ] Developing tools to help writers map out narrative relationships
+- [ ] A showcase for my experience in course design
+- [ ] A more "realistic" random character generator
 
 ### I've worn many hats:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;philosopher,[^1] translator,[^2] writer, game designer,[^3] and full stack web developer.
@@ -40,18 +38,21 @@ Here are some ideas to get you started:
 [^2]: See my contributions to [The Deleuze Seminars](https://deleuze.cla.purdue.edu/index.php/), a large-scale project out of Purdue University, funded by the National Endowment for the Humanities.
 [^3]: Writing, Testing, and Co-Designing an upcoming card game with spooky slug person, [Miranda Zimmerman](https://www.faunwood.com/).
 
-### Ask me about...
-
+### Come find me if...
+- [ ] You have a Gundam model you want to show off
+- [ ] There's an open spot in your campaign, reading group, or knitting circle
+- [ ] You want to swap reading recommendations
+- [ ] You'd like to collaborate on something!
 
 <h3 align='center'>Reach me at...</h3>
 
 
 <table align='center'>
     <tr>
-        <td align='center'><img src='images\facebook.png' width='50' height='50'></td>
-        <td align='center'><img src='images\twitter.png' width='50' height='50'></td>
-        <td align='center'><img src='images\discord.png' width='50' height='50'></td>
-        <td align='center'><img src='images\linkedin.png' width='50' height='50'></td>
+        <td align='center'><img src='images\facebook.png' width='40' height='40'></td>
+        <td align='center'><img src='images\twitter.png' width='40' height='40'></td>
+        <td align='center'><img src='images\discord.png' width='40' height='40'></td>
+        <td align='center'><img src='images\linkedin.png' width='40' height='40'></td>
     </tr>
     <tr>
         <td align='center' colspan='4'>Or just drop me a line at billy.goehring@gmail.com</td>
@@ -60,4 +61,5 @@ Here are some ideas to get you started:
 
 
 <h3 align='center'>Looking to Collaborate...</h3>
+- [ ] TBD
 
