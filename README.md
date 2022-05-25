@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 [^3]: Writing, Testing, and Co-Designing an upcoming card game with spooky slug person, [Miranda Zimmerman](https://www.faunwood.com/).
 
 ### Come find me if...
-- [ ] You have a Gundam model you want to show off
 - [ ] There's an open spot in your campaign, reading group, or knitting circle
 - [ ] You want to swap reading recommendations
 - [ ] You'd like to collaborate on something!
