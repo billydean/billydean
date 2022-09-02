@@ -1,19 +1,3 @@
-
-<!--
-**billydean/billydean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hey,<br>&nbsp;&nbsp;&nbsp;I'm Billy Dean <sub>(he/him)</sub>
 
 <!--<h3 align='center'>Toolbelt</h3>
@@ -42,23 +26,4 @@ Here are some ideas to get you started:
 - [ ] There's an open spot in your campaign, reading group, or knitting circle
 - [ ] You want to swap reading recommendations
 - [ ] You'd like to collaborate on something!
-
-<h3 align='center'>Reach me at...</h3>
-
-
-<table align='center'>
-    <tr>
-        <td align='center'><img src='images\facebook.png' width='40' height='40'></td>
-        <td align='center'><img src='images\twitter.png' width='40' height='40'></td>
-        <td align='center'><img src='images\discord.png' width='40' height='40'></td>
-        <td align='center'><img src='images\linkedin.png' width='40' height='40'></td>
-    </tr>
-    <tr>
-        <td align='center' colspan='4'>Or just drop me a line at billy.goehring@gmail.com</td>
-    </tr>
-</table>
-
-
-<h3 align='center'>Looking to Collaborate...</h3>
-- [ ] TBD
 
