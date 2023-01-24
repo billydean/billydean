@@ -12,9 +12,8 @@
 </tr>
 </table>-->
 ### Currently Working On
-- [ ] Developing tools to help writers map out narrative relationships
+- [ ] A tool for (dynamically!) generating dynastic family histories (see "Deanasty")
 - [ ] A showcase for my experience in course design
-- [ ] A more "realistic" random character generator
 
 ### I've worn many hats:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;philosopher,[^1] translator,[^2] writer, game designer,[^3] and full stack web developer.
@@ -23,7 +22,7 @@
 [^3]: Writing, Testing, and Co-Designing an upcoming card game with spooky slug person, [Miranda Zimmerman](https://www.faunwood.com/).
 
 ### Come find me if...
-- [ ] There's an open spot in your campaign, reading group, or knitting circle
-- [ ] You want to swap reading recommendations
+- [ ] There's an open spot in your campaign, reading group, or knitting circle.
+- [ ] You want to swap reading recommendations.
 - [ ] You'd like to collaborate on something!
 
