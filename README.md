@@ -3,14 +3,35 @@
 <h3 align='center'>Toolbelt</h3>
 <table align='center'>
 <tr>
-    <td align='center'><img src='images\js-logo.svg' width='75' height='75'></td>
-    <td align='center'><img src='images\react-logo.svg' width='75' height='75'></td>
+    <td align='center'><img src='images\js-logo.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\react-logo.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\typescript-original.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\css3-original.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\redux-original.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\nodejs-original.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\figma-original.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\materialui-original.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\tailwindcss-plain.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\mysql-original.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\docker-original.svg' width='45' height='45'></td>
+    <td align='center'><img src='images\mongodb-original.svg' width='45' height='45'></td>
 </tr>
 <tr>
-    <td>JavaScript</td>
-    <td>React.js</td>
+    <td><sub>JavaScript</sub></td> 
+    <td><sub>React.js</sub></td> 
+    <td><sub>TypeScript</sub></td> 
+    <td><sub>CSS</sub></td> 
+    <td><sub>Redux</sub></td> 
+    <td><sub>Node.js</sub></td> 
+    <td><sub>Figma</sub></td> 
+    <td><sub>MaterialUI</sub></td> 
+    <td><sub>Tailwind CSS</sub></td> 
+    <td><sub>MySQL</sub></td> 
+    <td><sub>Docker</sub></td> 
+    <td><sub>MongoDB</sub></td> 
 </tr>
 </table>
+
 ### Currently Working On
 - [ ] A tool for (dynamically!) generating dynastic family histories (see "Deanasty")
 - [ ] A showcase for my experience in course design
