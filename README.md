@@ -1,6 +1,6 @@
 # Hey,<br>&nbsp;&nbsp;&nbsp;I'm Billy Dean <sub>(he/him)</sub>
 
-<!--<h3 align='center'>Toolbelt</h3>
+<h3 align='center'>Toolbelt</h3>
 <table align='center'>
 <tr>
     <td align='center'><img src='images\js-logo.svg' width='75' height='75'></td>
@@ -10,7 +10,7 @@
     <td>JavaScript</td>
     <td>React.js</td>
 </tr>
-</table>-->
+</table>
 ### Currently Working On
 - [ ] A tool for (dynamically!) generating dynastic family histories (see "Deanasty")
 - [ ] A showcase for my experience in course design
