@@ -13,8 +13,6 @@
     <td align='center'><img src='images\materialui-original.svg' width='45' height='45'></td>
     <td align='center'><img src='images\tailwindcss-plain.svg' width='45' height='45'></td>
     <td align='center'><img src='images\mysql-original.svg' width='45' height='45'></td>
-    <td align='center'><img src='images\docker-original.svg' width='45' height='45'></td>
-    <td align='center'><img src='images\mongodb-original.svg' width='45' height='45'></td>
 </tr>
 <tr>
     <td><sub>JavaScript</sub></td> 
@@ -27,14 +25,13 @@
     <td><sub>MaterialUI</sub></td> 
     <td><sub>Tailwind CSS</sub></td> 
     <td><sub>MySQL</sub></td> 
-    <td><sub>Docker</sub></td> 
-    <td><sub>MongoDB</sub></td> 
 </tr>
 </table>
 
 ### Currently Working On
+- [x] A Tarot card reading (see [here](github.com/billydean/nostalgic-tarot))
 - [ ] A tool for (dynamically!) generating dynastic family histories (see "Deanasty")
-- [ ] A showcase for my experience in course design
+- [ ] A map generator
 
 ### I've worn many hats:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;philosopher,[^1] translator,[^2] writer, game designer,[^3] and full stack web developer.
